@@ -4,4 +4,4 @@ website for tution classes
 
 
 # link
-https://github.io/Ravi-Kushwah/dummy-website/
+https://ravi-kushwah.github.io/dummy-website/
